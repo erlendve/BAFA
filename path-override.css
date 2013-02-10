@@ -2,8 +2,8 @@
   font-family: 'FontAwesome';
   src: url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.eot?v=3.0.2');
   src: url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.eot?#iefix&v=3.0.2') format('embedded-opentype'),
-    url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.woff?v=3.0.2') format('woff'),
-    url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.ttf?v=3.0.2') format('truetype');
+    url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.woff?v=3.0.1') format('woff'),
+    url('/packages/bafa/lib/font-awesome-3.0.2/font/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
