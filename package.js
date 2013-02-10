@@ -7,6 +7,7 @@ Package.on_use(function(api){
 	api.add_files([
 		'lib/bootstrap-2.2.2/bootstrap.min.css',
 		'lib/bootstrap-2.2.2/bootstrap.min.js',
+		'path-override.css',
 		'lib/font-awesome-3.0.2/font/fontawesome-webfont.eot',
 		'lib/font-awesome-3.0.2/font/FontAwesome.otf',
 		'lib/font-awesome-3.0.2/font/fontawesome-webfont.ttf',
@@ -16,6 +17,5 @@ Package.on_use(function(api){
 		'lib/animate.css/animate.min.css',
 
 		//font path override
-		// 'path-override.css',
 		], 'client');
 });
