@@ -16,6 +16,6 @@ Package.on_use(function(api){
 		'lib/animate.css/animate.min.css',
 
 		//font path override
-		// 'path-override.css',
+		'path-override.css',
 		], 'client');
 });
