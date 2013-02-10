@@ -13,6 +13,9 @@ Package.on_use(function(api){
 		'lib/font-awesome-3.0.2/font/fontawesome-webfont.woff',
 		'lib/font-awesome-3.0.2/font/fontawesome-webfont.svg',
 		'lib/font-awesome-3.0.2/css/font-awesome.css',
-		'lib/animate.css/animate.min.css'
-	], 'client');
+		'lib/animate.css/animate.min.css',
+
+		//font path override
+		// 'path-override.css',
+		], 'client');
 });
